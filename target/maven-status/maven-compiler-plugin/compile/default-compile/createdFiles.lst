@@ -1,0 +1,12 @@
+com\example\abarroteria\Servicios\ServicioChequeo.class
+com\example\abarroteria\Controlador\Todo.class
+com\example\abarroteria\Entidad\EntidadRegistro.class
+com\example\abarroteria\Entidad\EntidadUsuarios.class
+com\example\abarroteria\Repositorio\RepositorioRegistro.class
+com\example\abarroteria\AbarroteriaApplication.class
+com\example\abarroteria\Repositorio\RepositorioUsuarios.class
+com\example\abarroteria\Servicios\ServicioUsuarios.class
+com\example\abarroteria\Entidad\EntidadChequeo.class
+com\example\abarroteria\Servicios\ServicioRegistro.class
+com\example\abarroteria\Repositorio\RepositorioChequeo.class
+com\example\abarroteria\AbarroteriaApplication$1.class
